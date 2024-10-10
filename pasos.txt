@@ -1,0 +1,10 @@
+npx create-next-app@latest
+
+    npm run dev
+
+dependencias
+
+    npm install framer-motion
+    npm install swiper
+    npm install react-icons --save
+    npm i react-countup
